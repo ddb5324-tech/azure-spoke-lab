@@ -1,0 +1,7 @@
+*.pem
+*.key
+id_*
+*.parameters.json
+!main.parameters.example.json
+.azure/
+main.json
